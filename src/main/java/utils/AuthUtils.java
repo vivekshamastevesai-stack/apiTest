@@ -21,7 +21,7 @@ return response.jsonPath().getString("token");
 		
 		
 	}
-	
+	 System.out.println("Token: " + token);
 	
 	
 
